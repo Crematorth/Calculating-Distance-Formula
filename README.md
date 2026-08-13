@@ -1,5 +1,5 @@
 # Calculating-Distance-Formula
-##Description
+## Description
 This script will help you calculate distance formula.
 
 ## How to Run
@@ -8,7 +8,15 @@ This script will help you calculate distance formula.
 3. Enter the required values.
 
 ## Input Needed
-- Type the x and y coordinates of the 2 points using number values.
+- Type the x and y coordinates of the 2 points using number values. Please don't input strings or symbols.
 
 ## Sample Output
-Show an example of the program's output.
+x1 = 2
+y1 = 3
+x2 = 7
+y2 = 8
+The distance between the 2 points is: 7.07 units
+
+## Author
+Name: Haaris Meikeel G. Lalantacon
+Section: 8-Mahogany
