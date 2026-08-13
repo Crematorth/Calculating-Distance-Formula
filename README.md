@@ -1,6 +1,8 @@
+
+
 # Calculating-Distance-Formula
 ## Description
-This script will help you calculate distance formula.
+This script will help you calculate distance formula using math.pow() and math.sqrt().
 
 ## How to Run
 1. Open the program.
