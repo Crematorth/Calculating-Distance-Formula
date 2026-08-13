@@ -11,8 +11,8 @@ This script will help you calculate distance formula using math.pow() and math.s
 - Type "run" to start the program.
 - Type the x and y coordinates of the 2 points using number values. Please don't input strings or symbols.
 
-```markdown
 ## Sample Output
+```markdown
 x1 = 2
 y1 = 3
 x2 = 7
