@@ -8,6 +8,7 @@ This script will help you calculate distance formula.
 3. Enter the required values.
 
 ## Input Needed
+- Type "run" to start the program.
 - Type the x and y coordinates of the 2 points using number values. Please don't input strings or symbols.
 
 ## Sample Output
